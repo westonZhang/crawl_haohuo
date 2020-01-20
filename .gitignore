@@ -1,0 +1,9 @@
+*.xml
+/.idea
+build
+dist
+*.spec
+*.pyc
+test.py
+venv
+testenv
